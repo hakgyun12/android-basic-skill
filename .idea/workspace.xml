@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="21ba6997-3d8e-4922-a721-4c3b513d0902" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Splash-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Splash-app/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Splash-app/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Splash-app/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Splash-app/app/src/androidTest/java/org/techtown/myapplication/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Splash-app/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Splash-app/app/src/main/java/org/techtown/myapplication/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Splash-app/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Splash-app/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Splash-app/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Splash-app/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Splash-app/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Splash-app/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Splash-app/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Splash-app/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Splash-app/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Splash-app/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Splash-app/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Splash-app/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Splash-app/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Splash-app/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Splash-app/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Splash-app/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Splash-app/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Splash-app/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Splash-app/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Splash-app/app/src/test/java/org/techtown/myapplication/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Splash-app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Splash-app/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Splash-app/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Splash-app/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Splash-app/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Splash-app/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Splash-app/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/androidTest/java/org/techtown/bts_app/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/main/java/org/techtown/bts_app/Bts1Activity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/main/java/org/techtown/bts_app/Bts2Activity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/main/java/org/techtown/bts_app/Bts3Activity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/main/java/org/techtown/bts_app/Bts4Activity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/main/java/org/techtown/bts_app/Bts5Activity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/main/java/org/techtown/bts_app/Bts6Activity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/main/java/org/techtown/bts_app/Bts7Activity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/main/java/org/techtown/bts_app/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/main/res/drawable/bts_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/main/res/drawable/bts_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/main/res/drawable/bts_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/main/res/drawable/bts_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/main/res/drawable/bts_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/main/res/drawable/bts_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/main/res/drawable/bts_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/main/res/layout/activity_bts1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/main/res/layout/activity_bts2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/main/res/layout/activity_bts3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/main/res/layout/activity_bts4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/main/res/layout/activity_bts5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/main/res/layout/activity_bts6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/main/res/layout/activity_bts7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/app/src/test/java/org/techtown/bts_app/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTS-APP/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="22abS7vWrIStsuBwYckmTbFpzpt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="Splash-App.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21ba6997-3d8e-4922-a721-4c3b513d0902" name="Default Changelist" comment="" />
+      <created>1640078641433</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640078641433</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="784" y="259" key="FileChooserDialogImpl" timestamp="1640078901857">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="784" y="259" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1080@0.0.1920.1040" timestamp="1640078901857" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1640078826384">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1080@0.0.1920.1040" timestamp="1640078826384" />
+  </component>
+</project>
