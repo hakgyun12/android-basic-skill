@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "388196102058",
+    "project_id": "fir-emaillogin-924f1",
+    "storage_bucket": "fir-emaillogin-924f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388196102058:android:a1602cb3383ce3316d05d3",
+        "android_client_info": {
+          "package_name": "org.techtown.firebase_emaillogin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388196102058-0ae98vl5ff1g8lprqrr7emcqiki7p7vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5bUnMUYV5FQtH8thGv94zzJAUlXDwJxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388196102058-0ae98vl5ff1g8lprqrr7emcqiki7p7vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
