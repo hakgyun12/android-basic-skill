@@ -1,13 +1,14 @@
 {
   "project_info": {
     "project_number": "174897399193",
+    "firebase_url": "https://diet-memo-70a72-default-rtdb.firebaseio.com",
     "project_id": "diet-memo-70a72",
     "storage_bucket": "diet-memo-70a72.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:174897399193:android:00373e841886aa531a3f08",
+        "mobilesdk_app_id": "1:174897399193:android:a52949fc521cc5631a3f08",
         "android_client_info": {
           "package_name": "org.techtown.diet_app"
         }

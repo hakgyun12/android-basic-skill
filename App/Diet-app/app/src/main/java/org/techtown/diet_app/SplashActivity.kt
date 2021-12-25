@@ -47,11 +47,6 @@ class SplashActivity : AppCompatActivity() {
                     } else {
                         // If sign in fails, display a message to the user.
                         Toast.makeText(this, "비회원 로그인 실패", Toast.LENGTH_LONG).show()
-
-                        Handler().postDelayed({
-                            startActivity(Intent(this, MainActivity::class.java))
-                            finish()
-                        }, 3000)
                     }
                 }
 

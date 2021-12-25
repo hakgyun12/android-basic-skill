@@ -7,8 +7,11 @@ import android.util.Log
 import android.view.LayoutInflater
 import android.widget.Button
 import android.widget.DatePicker
+import android.widget.EditText
 import android.widget.ImageView
 import androidx.appcompat.app.AlertDialog
+import com.google.firebase.database.ktx.database
+import com.google.firebase.ktx.Firebase
 import java.util.*
 
 class MainActivity : AppCompatActivity() {
@@ -27,6 +30,8 @@ class MainActivity : AppCompatActivity() {
 
             val DataSelectBtn = mAlertDialog.findViewById<Button>(R.id.dateSelectBtn)
 
+            var dataText = ""
+
             mAlertDialog.findViewById<Button>(R.id.dateSelectBtn)?.setOnClickListener {
 
                 val today = GregorianCalendar()
@@ -38,9 +43,25 @@ class MainActivity : AppCompatActivity() {
                     override fun onDateSet(view: DatePicker?, year: Int, month: Int, date: Int) {
                         Log.d("MAIN", "${year}, ${month+ 1}, ${date}")
                         DataSelectBtn!!.setText("${year}, ${month+ 1}, ${date}")
+
+                        dataText = "${year}, ${month+ 1}, ${date}"
                     }
                 }, year, month, date)
                 dlg.show()
+            }
+
+            val saveBtn = mAlertDialog.findViewById<Button>(R.id.saveBtn)
+            saveBtn?.setOnClickListener {
+
+                val healthMemo = mAlertDialog.findViewById<EditText>(R.id.healthMemo)?.text.toString()
+
+                val database = Firebase.database
+                val myRef = database.getReference("myMemo")
+
+                val model = DataModel(dataText, healthMemo)
+
+                myRef.push().setValue(model)
+
             }
         }
     }
