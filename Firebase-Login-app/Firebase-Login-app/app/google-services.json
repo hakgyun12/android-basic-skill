@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1083004390339",
+    "project_id": "fir-login-db0dc",
+    "storage_bucket": "fir-login-db0dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083004390339:android:3fec59013f915d625f4b76",
+        "android_client_info": {
+          "package_name": "org.techtown.firebase_login_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083004390339-io3pveb2s9bv47lbhqs8d6guv7qnctso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt5JL_SeSJKs9gLHpAGnJ5cLJvixNdvU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083004390339-io3pveb2s9bv47lbhqs8d6guv7qnctso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
