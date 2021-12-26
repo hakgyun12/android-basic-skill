@@ -8,7 +8,7 @@ android {
 
     defaultConfig {
         applicationId "org.techtown.mango_contents_app"
-        minSdk 16
+        minSdk 23
         targetSdk 31
         versionCode 1
         versionName "1.0"
@@ -31,6 +31,8 @@ android {
     }
 }
 
+apply plugin: 'com.google.gms.google-services'
+
 dependencies {
 
     implementation 'androidx.core:core-ktx:1.7.0'
@@ -42,4 +44,8 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
     implementation 'com.github.bumptech.glide:glide:4.12.0'
     annotationProcessor 'com.github.bumptech.glide:compiler:4.12.0'
+    implementation platform('com.google.firebase:firebase-bom:29.0.3')
+    implementation 'com.google.firebase:firebase-analytics-ktx'
+    implementation 'com.google.firebase:firebase-auth-ktx'
+    implementation 'com.google.firebase:firebase-database-ktx'
 }
